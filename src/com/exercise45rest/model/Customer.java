@@ -57,10 +57,10 @@ public class Customer {
 	public void setWeightCustomer(double weightCustomer) {
 		this.weightCustomer = weightCustomer;
 	}
-	public boolean isSingle() {
+	public boolean getIsSingle() {
 		return isSingle;
 	}
-	public void setSingle(boolean isSingle) {
+	public void setIsSingle(boolean isSingle) {
 		this.isSingle = isSingle;
 	}
 	@Override
